@@ -34,6 +34,8 @@ L'interfaccia di TinyUpper é nata con l'idea di essere il piú pulita possibile
   </ol>
   <hr />
   
+  </div>
+  
 <h3>Lista Caratteristiche</h3>
 <ul class="disc">
 <li>Interfaccia semplice e pulita</li>
@@ -59,4 +61,3 @@ L'interfaccia di TinyUpper é nata con l'idea di essere il piú pulita possibile
 <li><a href="https://filezilla-project.org/">Client FTP Filezilla</a></li>
 </ul>
 
-</div>
