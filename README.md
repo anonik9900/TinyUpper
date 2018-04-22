@@ -46,4 +46,17 @@ L'interfaccia di TinyUpper é nata con l'idea di essere il piú pulita possibile
 
 </ul>
 
+<hr>
+<br>
+
+<h3>Requisiti</h3>
+<ul>
+<li><a href="http://php.net/downloads.php">PHP 5.x e/o superiori</a></li>
+<li><a href="https://www.mysql.com/it/">My SQL come server management</a></li>
+<li>In Alternativa <a href="https://httpd.apache.org/">Server Apache</a> </li>
+<li>Dominio &amp; Hosting</li>
+<li>Spazio su server superiore a 1GB</li>
+<li><a href="https://filezilla-project.org/">Client FTP Filezilla</a></li>
+</ul>
+
 </div>
