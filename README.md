@@ -34,5 +34,16 @@ L'interfaccia di TinyUpper é nata con l'idea di essere il piú pulita possibile
   </ol>
   <hr />
   
+<h3>Lista Caratteristiche</h3>
+<ul class="disc">
+<li>Interfaccia semplice e pulita</li>
+<li>Grafica leggera per funzionare pure su dispositivi non recenti</li>
+<li>Supporto per Android, Windows e Mac Os</li>
+<li>Disponibile in Inglese e Italiano (in futuro Tedesco e Cinese.)</li>
+<li>Script in php veloce e sicuro</li>
+<li>Funzionante con la maggior parte dei server</li>
+<li>Personalizzabile al 100%</li>
+
+</ul>
 
 </div>
