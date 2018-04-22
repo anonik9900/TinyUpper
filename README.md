@@ -1,5 +1,6 @@
-# TinyUpper
 <div align="center">
+  <h1> TinyUpper</h1>
+
   <img src="http://tinyupper.altervista.org/italiano/logo.png"/><br>
 Grazie a TinyUpper puoi permettere ai tuoi utenti o ai moderatori del tuo sito di caricare file all'interno del tuo spazio web, grazie al semplice ma potente script scritto in php. <br>
   <hr>
@@ -16,6 +17,22 @@ L'interfaccia di TinyUpper é nata con l'idea di essere il piú pulita possibile
   
   <hr>
   <br>
+  
+  <strong>Istruzioni per l'installazione</strong>
+  <br>
+  <ol>
+  <li>Scarica l'archivio zip cliccando il tasto <storng>Scarica Ora </strong></li>
+  <li>Estrai l'archivio .zip</li>
+  <li>Copia tutti i file presenti nella cartella "<strong>TinyUpper</strong>" e copiali all'interno del tuo server</li>
+  <li>Modifica il file upload.html</li>
+  <li>Modifica il file Upload.php</li>
+  <li>Crea all'interno del tuo server la cartella dove vuoi che i file siano caricati</li>
+  <strong><li>&Eacute; consigliabile copiare i file di TinyUpper nella stessa directory in cui &eacute; stata creata la cartella</li>     </strong>
+  <li>Inserisci all'interno della cartella di Upload il contenuto della cartella "<strong>elenconaut</strong>"</li>
+  <strong><li>Elenconaut serve per visualizzare i file che sono contenuti all'interno della tua cartella di Upload</li></strong>
+
+  </ol>
+  <hr />
   
 
 </div>
