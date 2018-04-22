@@ -5,13 +5,13 @@ Grazie a TinyUpper puoi permettere ai tuoi utenti o ai moderatori del tuo sito d
   <hr>
   <br>
   <strong>INTERFACCIA SEMPLICE & PULITA</strong> <br>
-L'interfaccia di TinyUpper é nata con l'idea di essere il piú pulita possibile ma di racchiudere in essa tutte le funziona necessarie per gestire al meglio la propria pagina di upload. <br>
+L'interfaccia di TinyUpper é nata con l'idea di essere il piú pulita possibile ma di racchiudere in essa tutte le funziona necessarie per gestire al meglio la propria pagina di upload. <br><br>
 <img src="http://tinyupper.altervista.org/italiano/images/s1.png"/>
   
   <hr>
   <br>
   <strong>CODICE OTTIMIZATO & OPEN-SOURCE</strong><br>
-  Codice ottimizato per permettere una facile lettura agli sviluppatori esterni, infatti TinyUpper é Open-Source chiunque puó contribuire   a migliorare il codice.<br>
+  Codice ottimizato per permettere una facile lettura agli sviluppatori esterni, infatti TinyUpper é Open-Source chiunque puó contribuire   a migliorare il codice.<br><br>
   <img src="http://tinyupper.altervista.org/italiano/images/s2.png"/>
   
   <hr>
